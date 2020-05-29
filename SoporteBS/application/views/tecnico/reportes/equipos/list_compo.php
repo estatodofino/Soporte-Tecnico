@@ -1,0 +1,21 @@
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+        Reportes
+        <small>Listado por Componentes</small>
+        </h1>
+    </section>
+    <!-- Main content -->
+    <section class="content">
+     <div class="box box-solid">
+            <div class="box-body">
+        
+                 </div>
+            </div>
+    </section>
+    <!-- /.content -->
+</div>
+<!-- /.content-wrapper -->
+

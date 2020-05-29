@@ -1,0 +1,387 @@
+body{
+    background: url('../box_img_4.jpg');
+}
+.Ubuntu{
+   font-family: 'Ubuntu', sans-serif;
+}
+
+.Lobster{
+    font-family: 'Lobster', cursive;
+}
+
+.main{
+    margin: -10px 0px 0px 10px;
+}
+
+.baner{
+ background: url(../images/beckys.jpg);
+ color:#f7f8f8;
+ padding: 2px;
+}
+
+.barra{
+    margin: 5px 0px 0px 0px;
+
+}
+barraDer{
+   margin: -100px 0px 0px 0px;
+
+}
+
+
+.logo {
+    margin: 2px 0px 2px -10px;
+    width: 195px;
+    height: 90px;
+    background: url('../images/cabecera_01.jpg') no-repeat;
+    padding: 0;
+}
+
+.loky{
+    margin:30px 0px 10px -10px;
+    background: #f77829;
+    color: aliceblue;
+    widows: 300px;
+    height: 135px;
+    text-align: center;
+    padding: 0px;
+    margin-right: 5px;
+}
+
+
+.in-loky{
+    margin: -82px 0px 5px 0px;
+    background: url(../images/descarga2.jpg)no-repeat;
+    width: 390px;
+    height: 130px;
+    position:
+}
+.in-loky:hover{
+    background: rgba(226, 67, 9, 0.07);
+    font-weight: bold;
+    cursor:pointer;
+}
+
+.loky2{
+    margin:5px 0px 10px -10px;
+    background: #4cfc75;
+    color: aliceblue;
+    widows: 300px;
+    height: 150px;
+    text-align: center;
+    padding: 0px;
+}
+
+.in-loky2{
+    float: left;
+    background: url(../images/images.png);
+    margin: -73px 0px 20px 0px;
+    width: 390px;
+    height: 130px;
+
+}
+.in-loky2:hover{
+    background: rgba(150, 21, 130, 0);
+    font-weight: bold;
+    cursor:pointer;
+}
+
+
+.loky3{
+    margin:5px 0px 10px -10px;
+    background: #4f4fef;
+    color: aliceblue;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    padding: 0px;
+
+}
+.in-loky3{
+    background: url(../images/descarga.png);
+    margin: -69px 0px 0px 0px;
+    widows: 390px;
+    height: 132px;
+
+}
+.texto{
+    margin: 20px 0px 0px 0px;
+}
+.texto2, .texto3 {
+    margin: 25px 0px 0px 0px;
+}
+.in-loky3:hover{
+    background: rgba(21, 21, 150, 0.10);
+    font-weight: bold;
+    cursor:pointer;
+}
+
+.regis{
+    margin:20px 5px 0px 0px;
+    background:url(../images/logeo.jpg);
+    width:  200px;
+    height: 100px;
+    text-align: center;
+}
+
+.ini-ses{
+    margin:20px 0px 0px 5px;
+    background: url(../images/social.jpg);
+    width: 200px;
+    height:  100px;
+    text-align: center;
+    padding: 10px;
+}
+
+.modificacion{
+    margin:5px 5px 10px 5px;
+    background: url(../images/logearte.jpg);
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+.inregis{
+    background: rgba(255, 0, 0, 0.46);
+    width: 150px;
+    height: 100px;
+    margin-left: -15px;
+    padding: 30px;
+}
+.in-ini-ses{
+    background: rgba(247, 247, 46, 0.37);
+    width: 150px;
+    height: 100px;
+    margin: -10px 0px;
+    margin-left: -15px;
+    padding: 30px;
+}
+.in-modi{
+    background: rgba(19, 151, 175, 0.18);
+    width: 150px;
+    height: 100px;
+    margin: -10px 0px;
+    margin-left: -15px;
+    padding: 30px;
+}
+.centrado{
+    text-align: center;
+}
+.wellcome{
+    margin: auto;
+    background: rgba(107, 235, 216, 0.42);
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    text-align: center;
+    font-size:20px;
+    color:rgb(23,55,94);
+}
+.no-lista{
+    margin: 0px 0px 0px 0px;
+    list-style: none;
+    text-align: center;
+    background: white;
+}
+.ini-ses:hover{
+   font-weight: bold;
+    cursor:pointer;
+    font-size: 17px;
+}
+.regis:hover{
+    font-weight: bold;
+    cursor:pointer;
+    font-size: 17px;
+}
+.modificacion:hover{
+    font-weight: bold;
+    cursor:pointer;
+    font-size: 20px;
+}
+
+.nac{
+
+    color:#0d0c0b;
+    font-weight: bold;
+}
+
+
+
+
+.wellcome{
+    background: url(../images/beckys.jpg);
+    margin-top: 10px;
+    height: 50px;
+}
+.rey{
+    padding: 5px;
+   
+}
+.connecti{
+    color:#12a712;
+}
+.titulo_categoria {
+  background: #2c2c2c;
+  color: #dfeff9;
+  font-weight: 100;
+  font-size: 16px;
+  width: 100%;
+  height: 35px;
+  line-height: 35px;
+  padding-left: 14px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  -moz-border-top-left-radius: 2px;
+  -mozborder-top-right-radius: 2px;
+  -webkit-border-top-left-radius: 2px;
+  -webkit-border-top-right-radius: 2px;
+}
+
+.categorias_con_foros {
+  margin-bottom: 7px;
+}
+
+.cajas {
+  width: 100%;
+  padding: 8px 5px 5px 5px;
+  background: #f0f0f0;
+  border: 1px solid #e0e0e0;
+  height: auto!important;
+}
+
+.resaltado_caja {
+  width: 100%;
+  padding: 5px;
+  background: #dddfe6;
+  border: 1px solid #e0e0e0;
+  height: auto!important;
+}
+
+.no_style_list {
+  list-style: none;
+  padding-left: 2px;
+}
+
+.no_style_list li {
+  margin-bottom: 4px;
+}
+
+.foros {
+  width: 100%;
+  padding-left: 5px;
+  background: #f0f0f0;
+  border: 1px solid #e0e0e0;
+  max-height: 50px;
+  padding-top: 5px;
+}
+
+.foros div.left_border {
+  border-left: 1px solid #e0e0e0;
+}
+
+.foros div a {
+  color: #0a78ba;
+  font-weight: bold;
+}
+
+.foros div a:hover {
+  color: #52a4d5;
+}
+
+.puntitos {
+  overflow:hidden;
+  white-space:nowrap;
+  text-overflow: ellipsis;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.tema_textarea {
+  height: 500px!important;
+}
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+.cabecera{
+    margin: 5px 150px 5px 150px;
+}
+.botones{
+    background: url('../images/box_img_4.jpg')no-repeat;
+   
+}
+.profile_left{
+    margin: 5px;
+}
+.cabecero{
+    margin-top: 10px;
+    height: 150px;
+    width: 666px;
+    background: white;  
+}
+.follows{
+    background: url('../images/fondowde.jpg');
+    margin-top: 10px;
+    padding: 5px;
+    height: 110px;
+    width: 580px;  
+   
+}
+.icon{
+    color: rgba(21, 138, 165, 0.73);
+    font-size: 90px;
+    margin: 30px;
+}
+.icon-twitter:hover{
+  font-weight: bold;
+    cursor:pointer;
+    font-size: 95px;
+    color: aqua;
+}
+.icon-facebook:hover{
+  font-weight: bold;
+    cursor:pointer;
+    font-size: 95px;
+    color: #1e2395;  
+}
+.icon-instagram:hover{
+    font-weight: bold;
+    cursor:pointer;
+    font-size: 95px;
+    color: #cb1acb;
+}
+.cabe{
+  background: rgb(36, 37, 41);
+  font-weight: bold;
+  font-size: 30px;
+  height: 60px;
+  line-height: 35px;
+  padding: 14px;
+}
+.tat{
+    background: rgba(159, 15, 15, 0.32);
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+}
+.price2{
+  margin:5px;
+  text-align: center;
+  background: red;
+  width: 100%;
+  height: 100%;
+}

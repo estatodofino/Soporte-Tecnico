@@ -1,0 +1,166 @@
+body{
+    background: url(../images/topography.png);  
+}
+.banner{
+    background:url(../images/bg3.jpg);
+    
+    height: 100px;
+    margin: -10px 0px 0px 0px;
+    padding: 5px;
+    text-align: center;
+}
+.baner{
+    background:rgba(0, 216, 255, 0.38);
+    color: #3e0817;
+    height: 100px;
+    width: 500px;
+    margin: -100px 0px 0px 0px;
+    padding: 5px;
+    text-align: center;
+}
+
+.cuerpo{
+    
+    margin: 0px 20px ;
+    height: 590px;
+}
+.barra{
+    margin: 5px 0px 0px -30px;
+}
+barraDer{
+   margin: 0;
+    
+} 
+
+.ini-ses{
+    margin:5px 0px 0px -25px;
+    background: #36e08b;
+    color: aliceblue;
+   width:  190px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+.logo {
+    width: 550px;
+    height: 90px;
+    background: url('../images/cabecera_01.jpg') no-repeat;
+    padding: 0;
+}
+.loky{
+    margin:5px 0px 5px -10px;
+    background: green;
+    color: aliceblue;
+    widows: 250px;
+    height: 150px;
+    text-align: center;
+    padding: 20px;
+}
+
+.in-loky{
+    float: left;
+    margin:-58px 0px 0px 0px;
+    margin-left: 15px;
+    width: 200px;
+    height: 110px;
+    background: ;
+    
+}
+.in-loky:hover{
+    background: rgba(226, 67, 9, 0.07);
+    font-weight: bold;
+    cursor:pointer;
+    
+}
+
+.loky2{
+    margin:5px 0px 5px -10px;
+    background: orange;
+    color: aliceblue;
+    widows: 250px;
+    height: 150px;
+    text-align: center;
+    padding: 10px;
+}
+
+.in-loky2{
+    float: left;
+    margin: -39px 0px 0px -100px;
+    margin-left: 15px;
+    width: 400px;
+    height: 120px;
+    background: url('../images/images.png');
+    
+}
+.in-loky2:hover{
+    background: rgba(150, 21, 130, 0.53);
+    font-weight: bold;
+    cursor:pointer;
+    
+}
+
+
+.loky3{
+    margin:5px 0px 5px -10px;
+    background: blue;
+    color: aliceblue;
+    widows: 300px;
+    height: 150px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+
+.in-loky3{
+    
+    margin: -39px 0px 0px 0px;
+    margin-left: 15px;
+    width: 400px;
+    height: 120px;
+    background: url(../images/descarga.png);
+    float: left;
+}
+.in-loky3:hover{
+    background: rgba(21, 21, 150, 0.10);
+    font-weight: bold;
+    cursor:pointer;
+}
+
+.modi{
+     margin:5px 0px 0px -25px;
+    background: #e03692;
+    color: aliceblue;
+    width:  190px;;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+}
+.no-lista{
+    margin: 0px 0px 0px 0px;
+    list-style: none;
+    text-align: center;
+    background: red;
+}
+.regis{
+    margin:5px 0px 0px -25px;
+    background: #3664e0;
+    color: aliceblue;
+    width:  190px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+.wellcome{
+    margin: auto;
+    background: rgba(107, 235, 216, 0.42);
+    width: 650px;
+    height: 100px;
+    padding: 10px;
+    text-align: center;
+    font-size:20px;
+    color:rgb(23,55,94);     
+}
+
